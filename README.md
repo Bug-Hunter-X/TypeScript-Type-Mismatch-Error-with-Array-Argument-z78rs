@@ -1,0 +1,1 @@
+This example demonstrates a common TypeScript error: passing an array to a function expecting a string.  The error message can sometimes be misleading. The solution shows how to correctly handle this scenario, providing clearer type definitions and error handling.
